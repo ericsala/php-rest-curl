@@ -1,5 +1,7 @@
 <?php
 
+namespace Onionly\RestCurl;
+
 /**
  * PHP Rest CURL
  * https://github.com/jmoraleda/php-rest-curl

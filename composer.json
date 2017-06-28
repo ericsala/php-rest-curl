@@ -1,0 +1,8 @@
+{
+  "name": "ericsala/php-rest-curl",
+  "autoload": {
+    "psr-0" : {
+      "Onionly\\RestCurl" : "src"
+    }
+  }
+}
