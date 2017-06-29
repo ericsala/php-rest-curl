@@ -1,6 +1,6 @@
 <?php
 
-namespace Onionly\RestCurl;
+namespace Onionly;
 
 /**
  * PHP Rest CURL
@@ -8,7 +8,8 @@ namespace Onionly\RestCurl;
  * (c) 2014 Jordi Moraleda
  */
 
-Class RestCurl {
+class RestCurl
+{
   public static function exec($method, $url, $obj = array()) {
      
     $curl = curl_init();
